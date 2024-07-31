@@ -1,11 +1,10 @@
 ## Hi there, I'm Harini 👋
 
-<!--
 **Welcome to my GitHub profile! I am passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 ## About Me
 
-- :rocket: Aspiring Data Analyst 
+- rocket: Aspiring Data Analyst 
 - 🌱 currently pursuing the Google Data Analytics Certification
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +12,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->:graduation_cap: Master of Computer Application
+- graduation_cap: Master of Computer Application
