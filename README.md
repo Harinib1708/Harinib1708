@@ -4,6 +4,6 @@ Welcome to my GitHub profile! I am passionate about leveraging data analytics to
 
 ## About Me
 
-- 🚀 Aspiring Data Analyst 
-- 🌱 currently pursuing the Google Advanced Data Analytics Certification
-- 🎓 Master of Computer Application
+- 🚀 working Data Analytics Apprentice at Google 
+- 🌱 
+- 🎓 Purusing Diploma in Data science and AI at IIIT Bangalore 
